@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "responsive portfolio website",
+  "main": "index.js",
+  "homepage": "https://sushpatankar.github.io/Portfolio",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o Dist/css/ --recursive",
+    "deploy": "gh-pages -d Dist"
+  },
+  "author": "Sushant Patankar",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushpatankar/Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sushpatankar/Portfolio/issues"
+  }
+}
