@@ -240,10 +240,12 @@ main .icons {
 main .icons a {
   padding: 0.4rem;
   transition: all 0.5s ease-out;
+  color: black;
 }
 
 main .icons a:hover {
-  color: #eece1a;
+  color: white; 
+  background: #eece1a; 
   pointer-events: auto;
 }
 
