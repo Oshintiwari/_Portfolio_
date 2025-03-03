@@ -234,9 +234,8 @@ main .icons {
   padding: 10px;
   border-radius: 10px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for better appearance */
-  margin-top: 1rem;
+/*   margin-top: 1rem; */
 }
-
 
 main .icons a {
   padding: 0.4rem;
