@@ -224,18 +224,18 @@ main {
   min-height: calc(100vh - 60px);
 }
 
-/* main .icons {
-  position: fixed; /* Makes it stay in the lower right corner */
-  bottom: 20px;
-  right: 20px;
-  display: inline-block;
-  gap: 15px;
-  background: rgba(255, 255, 255, 0.9); /* Optional: Light background for visibility */
-  padding: 10px;
-  border-radius: 10px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for better appearance */
+/* main .icons { */
+/*   position: fixed; /* Makes it stay in the lower right corner */ */
+/*   bottom: 20px; */
+/*   right: 20px; */
+/*   display: inline-block; */
+/*   gap: 15px; */
+/*   background: rgba(255, 255, 255, 0.9); /* Optional: Light background for visibility */ */
+/*   padding: 10px; */
+/*   border-radius: 10px; */
+/*   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for better appearance */ */
 /*   margin-top: 1rem; */
-} */
+/* } */
 
 
 /* Changed to flex property instead of inline block to make the links clickable  */
