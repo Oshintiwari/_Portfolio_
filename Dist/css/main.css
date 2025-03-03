@@ -224,7 +224,7 @@ main {
   min-height: calc(100vh - 60px);
 }
 
-main .icons { */
+main .icons {
   position: fixed; /* Makes it stay in the lower right corner */
   bottom: 20px;
   right: 20px;
